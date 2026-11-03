@@ -26,7 +26,7 @@ export default defineConfig({
         },
       ],
       editLink: {
-        baseUrl: "https://github.com/EinarLogiOskars/commitarium/edit/main/website/",
+        baseUrl: "https://github.com/EinarLogiOskars/commitarium-website/edit/main/",
       },
       customCss: [
         "@fontsource-variable/geist",
